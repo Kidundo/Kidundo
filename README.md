@@ -4,7 +4,7 @@
 DevOps Engineer
 ---------------
 
-I've been learning to code for 5 years, after switching careers. I started with C++, Java, Specialising in C#, currently learning X++ and Powershell scripting, but have found a passion for backend development
+I've been learning to code for 5 years, after switching careers. I started with C++, Java, Specialising in C#, currently learning X++ and PowerShell scripting, but have found a passion for backend development
 
 *   🌍  I'm based in Kenya
 *   ✉️  You can contact me at [kidundo@proton.me](mailto:kidundo@proton.me)
