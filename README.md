@@ -8,7 +8,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 
 *   🌍  I'm based in Kenya
 *   ✉️  You can contact me at [kidundo@proton.me](mailto:kidundo@proton.me)
-*   🧠  I'm learning Dapps
+*   🧠  I'm learning Blockchain, Dapps
 *   🤝  I'm open to collaborating on Fintech apps and DeFi
 *   ⚡  My experiments with crypto mining in personal cloud sandboxes managed to turn data centers into mini heat waves. Who knew the quest for innovation could warm servers and hearts? 😊<a href="https://www.github.com/Kidundo" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Kidundo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Kidund0" target="_blank" rel="noreferrer"><img
