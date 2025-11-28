@@ -18,7 +18,13 @@ Software Developer
                   src="https://img.shields.io/twitter/follow/Kidund0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/Kidundo" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/Kidundo?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<img src="https://img.shields.io/badge/🎧_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" />
+</a>
+
+[![Spotify](https://novatorem-g3h3.vercel.app/api/spotify)](https://open.spotify.com/user/Kidundo)
+
 ![Visitor Count](https://hits.sh/github.com/Kidundo/Kidundo.svg?style=flat&label=Visitors&color=blue)
+
    ## 🛠️ Technologies & Tools
 
 ### Core Languages
